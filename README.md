@@ -7,6 +7,6 @@ Mata Pelajaran Produktif
 
 3. Komputer Jaringan Dasar
 
-4. Fisika
+4. Dasar Desain Grafis
 
-5. Dasar Desain Grafis
+5. Sistem Komputer
